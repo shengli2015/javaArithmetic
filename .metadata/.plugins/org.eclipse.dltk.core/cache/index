@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="/Users/shengli/Workspaces/MyEclipse 8.6/javaee/WebRoot/index.jsp" timestamp="1457941552000" lastAccessTime="1457941557854"/>
+  <entries path="/Users/shengli/Workspaces/MyEclipse 8.6/webTest/WebRoot/index.jsp" timestamp="1463973050000" lastAccessTime="1463973057129"/>
+  <entries path="/Users/shengli/Workspaces/MyEclipse 8.6/webTest/WebRoot/MyJsp.jsp" timestamp="1464110035000" lastAccessTime="1464110036307"/>
+  <entries path="/Users/shengli/Workspaces/MyEclipse 8.6/mystructs/WebRoot/index.jsp" timestamp="1464587124000" lastAccessTime="1466767351786"/>
+</cache:CacheIndex>

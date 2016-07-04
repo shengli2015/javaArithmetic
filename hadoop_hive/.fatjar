@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Mar 31 15:31:52 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=hive2mysql.jar
+manifest.mergeall=true
+manifest.mainclass=com.shengli.tools.Hive2Mysql
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

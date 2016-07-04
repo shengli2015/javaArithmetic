@@ -1,0 +1,6 @@
+#Mon May 23 11:46:07 CST 2016
+LIBRARY_PATH="/System/Library/Frameworks/JavaVM.framework/Versions/1.4/Home/bin\:/Users/shengli/Library/Genuitec/Common/plugins/com.genuitec.eclipse.easie.tomcat.myeclipse_8.6.0.me201007231647/tomcat/bin"
+tomcat.configuration.version.current=2
+eclipse.preferences.version=1
+JDK_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/1.4/Home
+ENDORSED_DIRS="/Users/shengli/Library/Genuitec/Common/plugins/com.genuitec.eclipse.easie.tomcat.myeclipse_8.6.0.me201007231647/tomcat/common/endorsed"

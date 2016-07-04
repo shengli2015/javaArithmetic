@@ -1,0 +1,10 @@
+#Tue May 24 17:14:11 CST 2016
+TOMCAT_HOME=/Library/apache-tomcat-6.0.45
+TOMCAT_TEMP=/Library/apache-tomcat-6.0.45/temp
+LIBRARY_PATH="/System/Library/Frameworks/JavaVM.framework/Versions/1.6/Home/bin\:/Library/apache-tomcat-6.0.45/bin"
+TOMCAT_BASE=/Library/apache-tomcat-6.0.45
+ENDORSED_DIRS="/Library/apache-tomcat-6.0.45/common/endorsed"
+eclipse.preferences.version=1
+JDK_INSTALLATION_NAME=JVM 1.6
+JDK_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/1.6/Home
+SERVER_ENABLEMENT=true
